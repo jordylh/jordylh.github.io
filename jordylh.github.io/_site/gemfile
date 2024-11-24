@@ -1,0 +1,5 @@
+source "https://rubygems.org"
+
+gem 'jekyll', '~> 4.3'
+gem 'sinatra', '~> 3.0'    # Example: Add Sinatra gem
+gem 'puma', '~> 6.0' 
